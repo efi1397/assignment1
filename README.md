@@ -16,4 +16,4 @@ https://www.hebcal.com/hebcal?v=1&cfg=json&maj=on&min=on&mod=on&nx=on&year=now&m
 
 ## Quick Start
 
-Execute the `.ps1` script located in vagrant directory.
+Execute the `.ps1` [script](./vagrant/get_holidays.ps1) located in vagrant directory.
